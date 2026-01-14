@@ -1,0 +1,9 @@
+1.
+services.msc
+win+r输入
+然后找到mysql80
+
+2.
+命令行输入 
+net start mysql80
+net stop mysql80
